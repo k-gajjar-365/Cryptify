@@ -42,3 +42,18 @@ This project leverages several powerful React hooks to manage state, lifecycle, 
 
 - [`useCallback`](https://react.dev/reference/react/useCallback) – for memoizing functions and optimizing re-renders
 
+---
+
+
+## 📦 Getting Started
+
+Clone the repo and run locally:
+
+
+
+```bash
+git clone https://github.com/k-gajjar-365/Cryptify.git
+cd Cryptify
+npm install
+npm run dev
+```
