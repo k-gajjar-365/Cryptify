@@ -2,7 +2,7 @@
 
 This is my **first React project**, built using **Vite**, **React**, and **Tailwind CSS**. It’s a sleek, responsive password generator that lets users customize their password with ease.
 
-
+[![Live Site](https://img.shields.io/badge/Live%20Site-Online-brightgreen)](https://cryptify-kappa.vercel.app/)
 ---
 
 ## 🚀 Features
