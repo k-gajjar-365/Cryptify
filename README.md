@@ -1,4 +1,4 @@
-# 🔐 Password Generator
+# 🔐Cryptify - Password Generator
 
 This is my **first React project**, built using **Vite**, **React**, and **Tailwind CSS**. It’s a sleek, responsive password generator that lets users customize their password with ease.
 
